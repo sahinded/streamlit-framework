@@ -4,17 +4,17 @@ import datetime as dt
 
 
 import os
-from bokeh.plotting import figure, ColumnDataSource
-from bokeh.models.widgets import Dropdown
-from bokeh.io import curdoc
-from bokeh.layouts import column
+from bokeh.plotting import figure
+#from bokeh.models.widgets import Dropdown
+#from bokeh.io import curdoc
+#from bokeh.layouts import column
 
-from bokeh.models import BooleanFilter, CDSView, Select, Range1d, HoverTool
-from bokeh.palettes import Category20
-from bokeh.models.formatters import NumeralTickFormatter
-from bokeh.models import BooleanFilter, CDSView, Select, Range1d, HoverTool
+#from bokeh.models import BooleanFilter, CDSView, Select, Range1d, HoverTool
+#from bokeh.palettes import Category20
+#from bokeh.models.formatters import NumeralTickFormatter
+#from bokeh.models import BooleanFilter, CDSView, Select, Range1d, HoverTool
 
-import numpy as np
+
 
 
 import requests

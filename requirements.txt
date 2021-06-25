@@ -1,11 +1,16 @@
 
-setuptools==0.7.3
+
 bokeh==2.1.1
-
-
 pandas==0.23.4
+python-dotenv==0.18.0
 
-requests==2.23.0
+requests==2.21.0
+
+
+spyder==3.3.2
+spyder-kernels==0.3.0
 
 
 streamlit==0.83.0
+
+
